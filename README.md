@@ -1,3 +1,3 @@
 # Demo-Git
 
-Some discription.
+Some discription! Read this note before use
